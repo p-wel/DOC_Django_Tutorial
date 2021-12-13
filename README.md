@@ -1,4 +1,3 @@
 # mysite.py
-"""
-Aplikacja do tworzenia ankiet z możliwością głosowania
-"""
+
+Django app for creating polls
